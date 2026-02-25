@@ -11,7 +11,7 @@ Storage: At least 2 GB of available disk space
 Internet connection required for activation and updates
 
 Download & Install:
-1. Download Labyrinth-Installer.pkg
+1. Download Labyrinth.pkg
 2. Run Labyrinth-Installer.pkg
 3. Press OK to close the warning notification
 4. Open ⚙️ System Preferences
